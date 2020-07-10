@@ -6,6 +6,8 @@
 <br>
 <strong>Problem 1342 A. Road to Zero: </strong> https://codeforces.com/problemset/problem/1342/A 
 <br>
+<strong>Problem 1362 A. Johnny and Ancient Computer: </strong> https://codeforces.com/problemset/problem/1362/A 
+<br>
 
 ----------------------------------------------------------------------------------------------------------------
 
