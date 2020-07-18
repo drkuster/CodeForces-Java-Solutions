@@ -4,6 +4,8 @@
 
 <strong>Problem 1 A. Theatre Square: </strong> https://codeforces.com/problemset/problem/1/A 
 <br>
+<strong>Problem 1244 B. Rooms and Staircases: </strong> https://codeforces.com/problemset/problem/1244/B 
+<br>
 <strong>Problem 1278 A. Shuffle Hashing: </strong> https://codeforces.com/problemset/problem/1278/A 
 <br>
 <strong>Problem 1342 A. Road to Zero: </strong> https://codeforces.com/problemset/problem/1342/A 
