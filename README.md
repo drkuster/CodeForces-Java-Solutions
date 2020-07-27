@@ -4,6 +4,8 @@
 
 <strong>Problem 1 A. Theatre Square: </strong> https://codeforces.com/problemset/problem/1/A 
 <br>
+<strong>Problem 1141 A. Game 23: </strong> https://codeforces.com/problemset/problem/1141/A 
+<br>
 <strong>Problem 1155 A. Reverse a Substring: </strong> https://codeforces.com/problemset/problem/1155/A 
 <br>
 <strong>Problem 1244 B. Rooms and Staircases: </strong> https://codeforces.com/problemset/problem/1244/B 
