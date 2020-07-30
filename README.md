@@ -14,6 +14,8 @@
 <br>
 <strong>Problem 1251 A. Broken Keyboard: </strong> https://codeforces.com/problemset/problem/1251/A 
 <br>
+<strong>Problem 1260 A. Heating </strong> https://codeforces.com/problemset/problem/1260/A 
+<br>
 <strong>Problem 1278 A. Shuffle Hashing: </strong> https://codeforces.com/problemset/problem/1278/A 
 <br>
 <strong>Problem 1342 A. Road to Zero: </strong> https://codeforces.com/problemset/problem/1342/A 
