@@ -1,5 +1,12 @@
 # CodeForces Java Solutions
 
+# Difficulty 1100
+
+<strong>Problem 1214 B. Badges: </strong> https://codeforces.com/problemset/problem/1214/B 
+<br>
+
+----------------------------------------------------------------------------------------------------------------
+
 # Difficulty 1000
 
 <strong>Problem 1 A. Theatre Square: </strong> https://codeforces.com/problemset/problem/1/A 
