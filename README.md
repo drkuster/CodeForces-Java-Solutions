@@ -6,6 +6,8 @@
 <br>
 <strong>Problem 1214 B. Badges: </strong> https://codeforces.com/problemset/problem/1214/B 
 <br>
+<strong>Problem 1370 B. GCD Compression: </strong> https://codeforces.com/problemset/problem/1370/B 
+<br>
 
 ----------------------------------------------------------------------------------------------------------------
 
