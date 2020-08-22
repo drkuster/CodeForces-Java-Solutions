@@ -2,6 +2,8 @@
 
 # Difficulty 1100
 
+<strong>Problem 950 B. Intercepted Message: </strong> https://codeforces.com/problemset/problem/950/B 
+<br>
 <strong>Problem 1165 A. Remainder: </strong> https://codeforces.com/problemset/problem/1165/A 
 <br>
 <strong>Problem 1214 B. Badges: </strong> https://codeforces.com/problemset/problem/1214/B 
