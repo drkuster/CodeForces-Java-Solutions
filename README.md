@@ -2,6 +2,8 @@
 
 # Difficulty 1100
 
+<strong>Problem 801 A. Vicious Keyboard: </strong> https://codeforces.com/problemset/problem/801/A 
+<br>
 <strong>Problem 950 B. Intercepted Message: </strong> https://codeforces.com/problemset/problem/950/B 
 <br>
 <strong>Problem 1030 B. Vasya and Cornfield: </strong> https://codeforces.com/problemset/problem/1030/B 
