@@ -14,6 +14,8 @@
 <br>
 <strong>Problem 1370 B. GCD Compression: </strong> https://codeforces.com/problemset/problem/1370/B 
 <br>
+<strong>Problem 1395 B. Boboniu Plays Chess: </strong> https://codeforces.com/problemset/problem/1395/B 
+<br>
 
 ----------------------------------------------------------------------------------------------------------------
 
