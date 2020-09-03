@@ -12,6 +12,8 @@
 <br>
 <strong>Problem 1214 B. Badges: </strong> https://codeforces.com/problemset/problem/1214/B 
 <br>
+<strong>Problem 1335 C. Two Teams Composing: </strong> https://codeforces.com/problemset/problem/1335/C 
+<br>
 <strong>Problem 1370 B. GCD Compression: </strong> https://codeforces.com/problemset/problem/1370/B 
 <br>
 <strong>Problem 1395 B. Boboniu Plays Chess: </strong> https://codeforces.com/problemset/problem/1395/B 
