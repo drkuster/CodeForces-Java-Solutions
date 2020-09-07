@@ -18,6 +18,8 @@
 <br>
 <strong>Problem 1395 B. Boboniu Plays Chess: </strong> https://codeforces.com/problemset/problem/1395/B 
 <br>
+<strong>Problem 1409 B. Minimum Product: </strong> https://codeforces.com/problemset/problem/1409/B 
+<br>
 
 ----------------------------------------------------------------------------------------------------------------
 
