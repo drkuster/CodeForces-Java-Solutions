@@ -2,6 +2,8 @@
 
 # Difficulty 1100
 
+<strong>Problem 792 A. New Bus Route: </strong> https://codeforces.com/problemset/problem/792/A 
+<br>
 <strong>Problem 801 A. Vicious Keyboard: </strong> https://codeforces.com/problemset/problem/801/A 
 <br>
 <strong>Problem 950 B. Intercepted Message: </strong> https://codeforces.com/problemset/problem/950/B 
