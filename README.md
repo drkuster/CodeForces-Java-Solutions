@@ -6,6 +6,8 @@
 <br>
 <strong>Problem 950 B. Intercepted Message: </strong> https://codeforces.com/problemset/problem/950/B 
 <br>
+<strong>Problem 967 A. Mind the Gap: </strong> https://codeforces.com/problemset/problem/967/A 
+<br>
 <strong>Problem 988 B. Substrings Sort: </strong> https://codeforces.com/problemset/problem/988/B 
 <br>
 <strong>Problem 1030 B. Vasya and Cornfield: </strong> https://codeforces.com/problemset/problem/1030/B 
